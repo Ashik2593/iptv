@@ -1,0 +1,661 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="71 Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",71 Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangla",Asian Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="Bangla",ATN Bangla
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9urf3vVzNLoNr2Ikf_IsF6Dvt5KhxjsksxA&usqp=CAU" group-title="Bangla",ATN News
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="http://boishakhionline.com/frontend_source/assets/images/logo.png" group-title="Bangla",Boishakhi TV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Vision" tvg-logo="https://2.bp.blogspot.com/-nSAt2ZYVv88/WVgtf_7hEGI/AAAAAAAAJOI/7332rsjOhOk4YWhK_ok-1y5b57iTLaCEACLcBGAs/s1600/bangla%2Bvision.png" group-title="Bangla",Bangla Vision
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://i.ytimg.com/vi/aVQLJ-NBIWE/maxresdefault.jpg" group-title="Bangla",Channel 24
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png" group-title="Bangla",Channel 9
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Bangla",Colors Bangla
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="Bangla",Deepto TV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh Tv" tvg-logo="https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/w1200-h630-p-k-no-nu/desh-tv-2.jpg" group-title="Bangla",Desh Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sab" tvg-logo="https://pbs.twimg.com/profile_images/884751550798675968/ephAG_WX_400x400.jpg" group-title="Hindi",Sony Sab
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://cdn.imgbin.com/1/25/0/imgbin-discovery-channel-television-channel-logo-television-show-others-70vvFwtvRkZzwZ4UcPyqSpWTN.jpg" group-title="Documentary",Discovery Channel
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey Tv" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/ekushey-tv.jpg" group-title="Bangla",Ekushey Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://projapoti.live/img/channels/gaan-bangla.jpg" group-title="Bangla",Gaan Bangla
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gazi" tvg-logo="https://i.pinimg.com/736x/f5/77/3a/f5773af3fddadf55fd3db4777c4e75a0.jpg" group-title="Bangla",Gazi
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="Movies",HBO
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History 18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/History_TV18_logo.png/150px-History_TV18_logo.png" group-title="Documentary",History 18
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla",Jalsha Movies
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna Tv" tvg-logo="http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="Bangla",Jamuna Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Masranga" tvg-logo="http://maasranga.tv/wp-content/uploads/2016/02/logo1.gif" group-title="Bangla",Masranga
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MN" tvg-logo="https://img.favpng.com/25/16/10/movies-now-television-channel-high-definition-television-mn-png-favpng-wqDfzyxuM8zhBuvMSSYXiwwuu.jpg" group-title="Movies",MN
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangla",Channel I
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="Bangla",Sangeet Bangla
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duronto " tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/0/0a/Duronto.jpg" group-title="Bangla",Duronto 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Bangla",DBC News
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTv" tvg-logo="https://wpgroupbd.com/wp-content/uploads/2017/06/my-tv-300x169.jpg" group-title="Bangla",MyTv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangla",Independent
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atn Music" tvg-logo="https://www.atnmusic.tv/images/logo.png" group-title="Bangla",Atn Music
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV Music" tvg-logo="https://yt3.ggpht.com/a/AGF-l78e56zJN4rIU5OsmjFkXVYsC9faK2OXHcyn6A=s900-c-k-c0xffffffff-no-rj-mo" group-title="Bangla",RTV Music
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1280px-FOX-Channel-Germany.svg.png" group-title="Entertainment",Fox
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2012/04/al-jazeera-news-tv-logo.jpg" group-title="News",Aljazeera
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_fR_MvZpuVo_-EDxTSl8C0jG_m23DAmSBOWQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Movies",MNX
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-b-n3tWCy4xe_62Eofp73qSS-7oaqnSIY7Jw=s288-c-k-c0xffffffff-no-rj-mo" group-title="Bangla",Nagorik
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NDTV" tvg-logo="https://cdn.ndtv.com/static/ndtv_2014/images/ndtvlogo_blk.png" group-title="News",NDTV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="http://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangla",News 24
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla",NTv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RN" tvg-logo="http://static.sify.com/cms/image/qkhnobgjidicf.jpg" group-title="Movies",RN
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTv" tvg-logo="https://lh3.googleusercontent.com/RiRI3w6Tu0zfMOvIVHsV2keLlWvgs63EX4jqoDMZXB9Nu4Xv_116rvVjOOM7ZFT5pw" group-title="Bangla",RTv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SATV" tvg-logo="https://www.satv.tv/wp-content/uploads/2017/07/logo1.png" group-title="Bangla",SATV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Skynews" tvg-logo="https://news.sky.com/resources/sky-news-logo.png?v=1?bypass-service-worker" group-title="News",Skynews
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy" tvg-logo="https://9xmworld.com/wp-content/uploads/2019/07/somoy-tv-live.jpg" group-title="Bangla",Somoy
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Bangla",Sony Aath
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png" group-title="Hindi",Sony Max 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony MAX HD" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Hindi",Sony MAX HD
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/Sony_Max_2_%28Logo%29.svg/revision/latest/top-crop/width/220/height/220?cb=20200125181335" group-title="Hindi",Sony Max 2
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Movies",Sony Pix
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg" group-title="Sports",Star Sports 1
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="https://img.favpng.com/10/17/10/star-sports-star-india-television-channel-sony-ten-2-png-favpng-uuyETKtmMTCbpZD1eCcrqWShh.jpg" group-title="Sports",Star Sports 2
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="https://www.satlogo.com/hires/ss/star_sports_hk_select_hd_2.png" group-title="Sports",Star Sports Select 1
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="Sports",Star Sports Select 2
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617" group-title="Sports",Sony Ten 1
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="Sports",Sony Ten 2
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="https://i.pinimg.com/236x/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.jpg" group-title="Sports",Sony Ten 3
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",Ptv Sports
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://static.epg.best/gb/SkySportsCricket.uk.png" group-title="Sports",Sky Sports Cricket
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Football" tvg-logo="https://s.cafebazaar.ir/1/icons/com.bskyb.fbscore_512x512.png" group-title="Sports",Sky Football
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Jalsha_HD_2019.png/revision/latest?cb=20190224050958" group-title="Bangla",Star Jalsha HD
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha " tvg-logo="https://icon2.cleanpng.com/20180530/ryk/kisspng-star-jalsha-jalsha-movies-star-india-television-ch-jalsha-movies-5b0e9a59a35f31.9595129715276836736692.jpg" group-title="Bangla",Star Jalsha 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vh1 It" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="Music",Vh1 It
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="https://yt3.ggpht.com/a/AGF-l788QgNXRt5ZqgtorGMzJaEOCaR4lEDoxVGXxw=s288-c-k-c0xffffffff-no-rj-mo" group-title="Hindi",Zee Action
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/Zee_Anmol_logo.jpg" group-title="Hindi",Zee Anmol
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Bangla",Zee Bangla
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Bangla",Zee Bangla HD
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="https://img.favpng.com/13/23/8/zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-png-favpng-E6e7K9SE2pC3X4RVYWfQ7qpeh.jpg" group-title="Hindi",Zee Cinema
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi",Zee Cinema HD
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee ClassIc" tvg-logo="https://i.postimg.cc/8zFzsPz6/Screenshot-2019-02-28-12-04-10-396.jpg" group-title="Hindi",Zee ClassIc
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_446/PORTRAIT/CMqUe8No.png" group-title="Hindi",Zee TV HD
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="abc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/1200px-ABC_News_solid_black_logo.svg.png" group-title="News",abc News
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abp Ananda" tvg-logo="https://static.abplive.com/frontend/abpananda/images/abp-bengali-og.jpg?impolicy=abp_cdn&imwidth=600" group-title="Bangla",Abp Ananda
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Box Hits" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1149.1464128411.png" group-title="Music",Box Hits
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kids Channel" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-BSUZSs6S-hOHTPzaSS7YuyUWjYkKPo3nHzA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Kids",Kids Channel
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 18" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-kL-ZtpMUUz5R2N6tPg3CEqSVKhyusnDbASw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Bangla",News 18
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RetroTv" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="Music",RetroTv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&Flix" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/05/andflix-logo_4.jpg&w=620&h=350&zc=1&q=100" group-title="Movies",&Flix
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AndTV_Logo.jpg/160px-AndTV_Logo.jpg" group-title="Hindi",&Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/11/12/zeeeeee.jpg?itok=CmIfTNh1" group-title="Entertainment",Zee Cafe
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&Pictures" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/170x170/pictureshd386x3_1451631172.png" group-title="Hindi",&Pictures
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Comedy (dual audio)" tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/a/aa/Paramount_Comedy_logo.png" group-title="Entertainment",Paramount Comedy (dual audio)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="& Prive HD" tvg-logo="https://www.exchange4media.com/news-photo/1505284911_sI2Bzt_70469.jpg" group-title="Movies",& Prive HD
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Movies",Fox Movies
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="https://seeklogo.com/images/T/ten-sports-logo-9544E367EB-seeklogo.com.gif" group-title="Sports",Ten Sports
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Barca Tv" tvg-logo="https://artwork.espncdn.com/media/9860e67d-b413-413d-a413-6032be024747/16x9/1280x720_20200408205449.jpg" group-title="Sports",Barca Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid " tvg-logo="https://lh3.googleusercontent.com/proxy/k4HszUEKuYBlhsbhMGo9tCwu3WkkgwLr-n7-_gUaY4q9LSvY7-wuhas6uhdoR3OFG7bXwJIoncjGOXPXjarjZ1HtAQnlySO45C7vsRIUV_VycMC73Q" group-title="Sports",Real Madrid 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://i.dlpng.com/static/png/4145725-amc-logo-png-images-free-transparent-png-logos-amc-png-2000_1111_preview.webp" group-title="Movies",AMC
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="https://f0.pngfuel.com/png/393/802/bbc-news-online-logo-of-the-bbc-hbo-logo-png-clip-art.png" group-title="News",BBC News
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="D Sports" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fdsport.jpg&h=570&w=855&q=100&v=20170226&c=1" group-title="Sports",D Sports
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Showcase" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d3/Discovery_Showcase_HD.png/revision/latest?cb=20141202144613" group-title="Documentary",Discovery Showcase
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png/revision/latest?cb=20180716153220" group-title="Documentary",Discovery Asia
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai One" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="Entertainment",Dubai One
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="Entertainment",FX
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="https://img.favpng.com/0/5/2/fox-life-india-fox-international-channels-television-channel-png-favpng-qLqFgr4AyS9mJAW7SPGEFYJK3.jpg" group-title="Entertainment",Fox Life
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1466415596_hbo-hits-sd.png" group-title="Movies",HBO Hits
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Movies",HBO US
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz" tvg-logo="https://i7.pngflow.com/pngimage/840/515/png-starz-logo-pay-television-television-show-neil-gaiman-television-text-logo-monochrome-clipart.png" group-title="Movies",Starz
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Home (Dual audio)" tvg-logo="https://www.pngkey.com/png/full/963-9639854_hbo-logo-home-videos-discovery-kids.png" group-title="Movies",HBO Home (Dual audio)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png" group-title="Music",MTV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://en.wikipedia.org/wiki/File:Boomerang_2014_logo.svg" group-title="Kids",Boomerang
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="https://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="https://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World (Dual audio)" tvg-logo="https://img2.pngio.com/home-cinemaworld-world-cinema-png-3508_1128.png" group-title="Movies",Cinema World (Dual audio)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="Music",MTV Rocks
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Entertainment",AXN
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Entertainment",Blue Ant Entertainment
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Documentary",Discovery Science
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Food_Food_%28TV_Channel%29_Logo.jpg/150px-Food_Food_%28TV_Channel%29_Logo.jpg" group-title="Hindi",Food
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hindi Movies" tvg-logo="https://i.pinimg.com/originals/37/e1/63/37e163ec5683172de7cd4d9801c6457b.png" group-title="Hindi",Hindi Movies
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment",Hits
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie Universe" tvg-logo="https://i.annihil.us/u/prod/marvel/images/OpenGraph-TW-1200x630.jpg" group-title="Movies",Movie Universe
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="Hindi",MBC Bollywood
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="Hindi",B4U Movies
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Entertainment",Blue Ant Extreme
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Hindi",Music India
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="Hindi",Mastiii
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jhanjar Music" tvg-logo="https://yt3.ggpht.com/a/AGF-l78DmofqnX3sQofBx1q2ep2DZCuBd-64AZjQJw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Hindi",Jhanjar Music
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mtv Beats HD" tvg-logo="https://etimg.etb2bimg.com/photo/54049995.cms" group-title="Hindi",Mtv Beats HD
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U Plus" tvg-logo="https://www.embratoria.net/uploads/tv_image/b4u-plus.png" group-title="Hindi",B4U Plus
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="News",CNN
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://4.bp.blogspot.com/-Hbi5cLg527g/WBh1i3l5t_I/AAAAAAAAKKg/CBWeocE-N6k_np0k-K9ZMp19N77rMCfKQCLcB/s1600/colors-tv-logo-list-of-colors-tv-serials-timings-trp-ratings-2016-new-upcoming-tv-shows.png" group-title="Hindi",Colors
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Club MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Club_MTV_logo.svg/1200px-Club_MTV_logo.svg.png" group-title="Music",Club MTV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/100px-SET_India_logo.svg.png" group-title="Hindi",Sony
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony HD
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035" group-title="Hindi",Star Gold
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold 2" tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms" group-title="Hindi",Star Gold 2
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select HD" tvg-logo="https://imgur.com/03b47c0b-9dcd-4dff-ad8b-c3dbd3f27538" group-title="Hindi",Star Gold Select HD
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="https://yt3.ggpht.com/a/AGF-l78ObozZI_4e60v5QkvmKJDJQkjhjdYlzwRsRw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Hindi",Star Plus
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UTV Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRT_CO6o2w1jrgfIi4TNYj3Qbr9ZZZ7GEc8Td8ySvzZBxI8xMWg&usqp=CAU" group-title="Hindi",UTV Movies
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Q" tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png" group-title="Hindi",The Q
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Entertainment",Thrill
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VIVA_Logo_blue-yellow.svg/779px-VIVA_Logo_blue-yellow.svg.png" group-title="Music",VIVA
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="Entertainment",Warner
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True sports 1 Premeire " tvg-logo="https://ผลบอล24.com/images/channel/true-epl-1.jpg" group-title="Sports",True sports 1 Premeire 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="https://www.exchange4media.com/news-photo/1520499305_cwcokX_B4U_MUSIC_LOGO_NEW.jpg" group-title="Hindi",B4U Music
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Two" tvg-logo="https://mpng.pngfly.com/20180405/zue/kisspng-bbc-two-logo-television-show-company-two-5ac6b43e8ee2f3.6812891915229717105853.jpg" group-title="News",BBC Two
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/97.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 11" tvg-logo="https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" group-title="Sports",beIN Sports 11
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CI " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Documentary",CI 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://d1xfgk3mh635yx.cloudfront.net/sites/default/files/styles/original/public/image/featured/1016492-disney-channel-debut-new-worldwide-logo-and-air-look.jpg" group-title="Kids",Disney Channel
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="Kids",Disney Junior
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Doma_tv.svg.png/800px-Doma_tv.svg.png" group-title="Entertainment",Doma
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FC Bayern Tv" tvg-logo="https://img.favpng.com/20/5/7/fc-bayern-munich-bundesliga-logo-dream-league-soccer-png-favpng-80AGCcgHLt7tdg2xMpzrRnGmu.jpg" group-title="Sports",FC Bayern Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="Documentary",ID
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mtv Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/512px-MTV_Hits_2013_logo.svg.png" group-title="Music",Mtv Hits
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="https://logodix.com/logo/900709.png" group-title="Kids",Nick
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Family" tvg-logo="https://www.tweak.nl/wp-content/uploads/2016/11/Film1_Secondary_Logo_RGB.png" group-title="Movies",Film Family
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Movies",MBC2
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="Entertainment",MBC Action
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="Movies",MBC Max
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="Movies",Star Movies
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="Movies",Cinemax
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel (Dual audio)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="Movies",Paramount Channel (Dual audio)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/611px-Comedy_Central_2011_Logo.svg.png" group-title="Entertainment",Comedy Central
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex" tvg-logo="https://lh3.googleusercontent.com/proxy/E7nlMRWHgouXZGWiWRFUAr8u7k8jaL49l3Cgf2k7oWFfCeuirRhCGTHFmDZj3WARzr0qMv6zGi8tApY3KTaktNrxQcoLVJSgPd_hQ-hRwdtH8YM0zCJdlvPQzfFktQlJzZ2SmcqCStmyzfjY_b5Cq4qgqtvrhy4IwNEWfvvM0EBI4AkA9jSvjAXjeqOWvwxCb6E" group-title="Hindi",Colors Cineplex
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Rishtey" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2019/03/colorsrishtey001-696x443.jpg" group-title="Hindi",Colors Rishtey
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Syfy_HD.svg/1280px-Syfy_HD.svg.png" group-title="Entertainment",SyFy
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Top" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Movies",TVCine Top
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV1000 (Dual audio)" tvg-logo="https://www.pikpng.com/pngl/m/567-5676179_tv1000-logo-tv-1000-logo-png-clipart.png" group-title="Movies",TV1000 (Dual audio)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV1000 Action (Dual audio)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/TV1000_Action_2014.png" group-title="Movies",TV1000 Action (Dual audio)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="Documentary",H2
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BollyWood Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcwR8KS3pqBFTNxxAWgg3L5ACBrCl1niJIOWCnySx023jzZlVG" group-title="Hindi",BollyWood Hd
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="Documentary",Nat Geo Wild
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Lifestyle",NatGeo People
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic (dual language)" tvg-logo="https://mms.businesswire.com/media/20200117005517/en/551357/23/NGC_Logo.jpg" group-title="Documentary",National Geographic (dual language)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="Documentary",Nat Geo IN
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/STAR_World_2013.png/200px-STAR_World_2013.png" group-title="Entertainment",Star World
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony turbo (Dual Language)" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/b9861f5f/aa10a18d_med.png" group-title="Entertainment",Sony turbo (Dual Language)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="" group-title="Hindi",SONY PAL
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="Hindi",SONY WAH
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Smile" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/ZeeSmileLogo.jpg" group-title="Hindi",Zee Smile
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sci-Fi (Dual Language)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Sony_Sci-Fi_2.png/revision/latest?cb=20170701190006" group-title="Entertainment",Sony Sci-Fi (Dual Language)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV International (dual audio)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="Entertainment",Sony TV International (dual audio)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Zing%28TVchannel%29Logo.jpg" group-title="Hindi",Zing
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="https://www.pngjoy.com/pngm/352/6566172_zoom-logo-zoom-event-png-download.png" group-title="Hindi",Zoom
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="Bangla",BTV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="Bangla",BTV World
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="Bangla",Bangla TV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 19" tvg-logo="https://i.ytimg.com/vi/WAgI6mFTEnM/maxresdefault.jpg" group-title="Bangla",Channel 19
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FYI" tvg-logo="https://i.pinimg.com/600x315/83/b9/e2/83b9e29c8b20f9fb2206226af52f7653.jpg" group-title="Lifestyle",FYI
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film 4" tvg-logo="https://i.imgur.com/5FgT60n.png" group-title="Movies",Film 4
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies " tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="Movies",Sony Movies 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie Box " tvg-logo="https://i.imgur.com/o0QSWJf.jpg" group-title="Movies",Movie Box 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie Box Hits" tvg-logo="https://i.imgur.com/o0QSWJf.jpg" group-title="Movies",Movie Box Hits
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="http://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News",Euronews
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Asie " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/250px-TV5MONDE_logo.png" group-title="Entertainment",TV5 Monde Asie 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CW" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/09/cbs-logo-old.png" group-title="Entertainment",CW
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saudi TV 1" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="Religious",Saudi TV 1
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Arabia" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="Religious",Al Arabia
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="Documentary",BBC Earth
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Lifestyle",TLC
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.imgur.com/2vQ8yIX.png" group-title="Lifestyle",HGTV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Lifestyle",Travel TV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/dBmaKIP.png" group-title="Documentary",Outdoor Channel
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K TV Showcase" tvg-logo="https://i.imgur.com/sagbQyG.png" group-title="Documentary",4K TV Showcase
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Monarch TV" tvg-logo="https://i.imgur.com/4T1Qf7e.jpg" group-title="Lifestyle",Monarch TV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="People TV" tvg-logo="https://i.imgur.com/JkLQ10R.jpg" group-title="Lifestyle",People TV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Living Foodz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Living-foodz-logo.jpg/200px-Living-foodz-logo.jpg" group-title="Lifestyle",Living Foodz
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="Documentary",RT Documentary
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YTN Science" tvg-logo="https://i.imgur.com/VOo8xzE.jpg" group-title="Documentary",YTN Science
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DABL" tvg-logo="https://i.imgur.com/hGtjnQd.jpg" group-title="Lifestyle",DABL
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Home&Living" tvg-logo="https://i.imgur.com/AXlHsla.png" group-title="Lifestyle",Home&Living
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Docu Box" tvg-logo="https://i.imgur.com/Z1btAWW.png" group-title="Documentary",Docu Box
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocean Tv" tvg-logo="https://banner2.cleanpng.com/20180504/whq/kisspng-united-nations-ocean-conference-world-ocean-washin-today-5aec46d7457314.9295611415254340712845.jpg" group-title="Documentary",Ocean Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xcorps" tvg-logo="https://i.imgur.com/ehynx8w.png?1" group-title="Lifestyle",Xcorps
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TMZ" tvg-logo="http://i.imgur.com/wzBD6fy.png" group-title="Lifestyle",TMZ
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://i.imgur.com/qmvMUq6.png" group-title="Lifestyle",DMAX
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/250px-NASA_TV.svg.png" group-title="Documentary",NASA TV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Quran" tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="Religious",Saudi Quran
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah" tvg-logo="https://i.imgur.com/6uT41kj.png" group-title="Religious",Saudi Sunnah
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Iqraa" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Iqra Bangla" tvg-logo="https://i.imgur.com/ksp29FD.jpg" group-title="Religious",Iqra Bangla
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azan TV" tvg-logo="https://i.imgur.com/Yledffg.png" group-title="Religious",Azan TV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITV USA" tvg-logo="https://i.ibb.co/NL0nsTH/Itv.jpg" group-title="Religious",ITV USA
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Islam" tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="Religious",ATN Islam
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ary Q tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png" group-title="Religious",Ary Q tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Islam Channel" tvg-logo="https://i.imgur.com/aYdi63B.jpg" group-title="Religious",Islam Channel
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="Kids",ANIMAX
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AniPlus" tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="Kids",AniPlus
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/220px-Eurosport_Logo_2015.svg.png" group-title="Sports",Euro Sports 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sports 2" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1150.1447433758.png" group-title="Sports",Euro Sports 2
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sports",Olympic Channel
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Hindi",9xM
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9x Jalwa" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Hindi",9x Jalwa
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Weather Channel" tvg-logo="https://i.imgur.com/UdcSRtu.png" group-title="Documentary",The Weather Channel
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="India Today" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="Hindi",India Today
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="http://static.iptv-epg.com/gb/CNBC.uk.png" group-title="News",CNBC
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://static.iptv-epg.com/au/CGTN.au.png" group-title="News",CGTN
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox" tvg-logo="http://static.iptv-epg.com/tr/Filmbox.tr.png" group-title="Movies",Filmbox
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Premiere " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Film1_Premiere.jpg/220px-Film1_Premiere.jpg" group-title="Movies",Film Premiere 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox Plus" tvg-logo="https://static.iptv-epg.com/cz/FilmboxPlus.cz.png" group-title="Movies",Filmbox Plus
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lotus Macau" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="Movies",Lotus Macau
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9XO" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="Music",9XO
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mtv Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Music",Mtv Live
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Yay" tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="Kids",Sony Yay
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="Sports",Abu Dhabi Sports 2
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 4" tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="Sports",Abu Dhabi Sports 4
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports",Dubai Racing
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sports",Dubai Sports
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="https://i.imgur.com/VVHanGt.jpg" group-title="Lifestyle",FTV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WF" tvg-logo="https://i.imgur.com/zJc5ydx.jpg" group-title="Lifestyle",WF
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HD Fashion & LifeStyle" tvg-logo="https://i.imgur.com/5p7CKwi.png" group-title="Lifestyle",HD Fashion & LifeStyle
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/5p7CKwi.png" group-title="Documentary",CGTN Documentary
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="French Movies " tvg-logo="https://i.imgur.com/5p7CKwi.png" group-title="Movies",French Movies 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV XXI" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/1f6897ae/32553977_med.png" group-title="Movies",TV XXI
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="https://i.imgur.com/5p7CKwi.png" group-title="Movies",Celestial Movies
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="One Golf" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="Sports",One Golf
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MATCH FUTBOL" tvg-logo="https://1.bp.blogspot.com/-p-JH9cWzyKI/V2w5Vd3kIcI/AAAAAAAABlk/nxDJcoO54XQVNl8p-WVeCNPJ5qrf1xbbgCLcB/s1600/match-futbol-1.jpg" group-title="Sports",MATCH FUTBOL
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Match sports" tvg-logo="https://banner2.cleanpng.com/20181108/zve/kisspng-match-tv-football-1-match-football-2-high-definit-5be49b22d982a7.9201762015417085788909.jpg" group-title="Sports",Match sports
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="Sports",Star Sports Asia
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="https://i7.pngflow.com/pngimage/238/54/png-indian-premier-league-dd-sports-television-dd-national-cricket-television-text-sport-logo-clipart.png" group-title="Sports",DD Sports
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motor Sport" tvg-logo="https://cdn-1.motorsport.com/static/custom/general-motorsport-com-team-2015-motorsport-com-logo.jpg" group-title="Sports",Motor Sport
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="Sports",Fight Sports
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull Tv" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports",Red Bull Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://www.edgesports.eu/assets/images/layout/logo@2x.png" group-title="Sports",Edge Sport
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://w7.pngwing.com/pngs/999/188/png-transparent-roku-tennis-channel-television-channel-tennis-television-text-sport.png" group-title="Sports",Tennis Channel
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6554.1489225299.png" group-title="News",Fox Sports News
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/2000px-Arirang-TV-Logo.svg.png" group-title="Lifestyle",Arirang
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Film" tvg-logo="https://pbs.twimg.com/profile_images/1059104731128311808/tFQEBnAb_400x400.jpg" group-title="Movies",Cine Film
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iFILM Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",iFILM Persian
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cbeebies" tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="Kids",Cbeebies
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spacetoon" tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="Kids",Spacetoon
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sharjah Sport" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sports",Sharjah Sport
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohona Tv" tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla",Mohona Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ananda Tv" tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="Bangla",Ananda Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bijoy Tv" tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="Bangla",Bijoy Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/48/Colors_Infinity_Black.jpg" group-title="Entertainment",Colors Infinity
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="Entertainment",K+
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/1280px-Rai_Premium_-_Logo_2017.svg.png" group-title="Movies",Movies Premium
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="Hindi",Star Bharat
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hum Sitaray" tvg-logo="https://img.favpng.com/7/25/2/pakistan-hum-tv-hum-sitaray-television-channel-png-favpng-d6aMRQiJJ4KCi9JqBf8enj21Z.jpg" group-title="Urdu",Hum Sitaray
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HUM Masala" tvg-logo="https://www.logolynx.com/images/logolynx/s_dc/dc9c24d93b633901675585d93035fe4a.png" group-title="Urdu",HUM Masala
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HUM Tv" tvg-logo="https://i.pinimg.com/originals/5b/08/48/5b08486530830efb54a9d2e2952548e6.png" group-title="Urdu",HUM Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Manoranjan Movies" tvg-logo="https://www.shatayupathy.com/wp-content/uploads/2018/05/1-1.jpg" group-title="Hindi",Manoranjan Movies
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png" group-title="Hindi",MTV India
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHKWorld Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHKWorld Japan
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Voice of America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/VOA_logo.png" group-title="News",Voice of America
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GEO news" tvg-logo="https://banner2.cleanpng.com/20180515/kxe/kisspng-pakistan-geo-news-geo-tv-geo-super-television-5afaba0d47fc47.8869878015263810692949.jpg" group-title="Urdu",GEO news
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIMES NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="Hindi",TIMES NOW
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Asia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzzYnsoXCUIz__oHDp-G5gRzZZ14a3SYYiuwfL-VlztvCaZqE1&usqp=CAU" group-title="News",Bloomberg Asia
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dd_Bangla.PNG/180px-Dd_Bangla.PNG" group-title="Bangla",DD Bangla
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTvqb4PqrO8ohIPKojcopDpi7611EFFiyVt5tTfHEY_5zgUeKh&usqp=CAU" group-title="Bangla",Ruposhi Bangla
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Geo Kahini" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png" group-title="Urdu",Geo Kahini
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOL Entertainment" tvg-logo="https://lh3.googleusercontent.com/VDPh7SnoE3ThmLQD8YnjoiC2eNAl4L0RcEXp8riit2-whoRbt7nJa_L_t2hT-sGorxg" group-title="Urdu",BOL Entertainment
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Public News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Public-News-Logo-1.jpg" group-title="Urdu",Public News
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Geo News" tvg-logo="https://www.pinclipart.com/picdir/middle/486-4865100_geo-logo-png-geo-news-tv-logo-clipart.png" group-title="Urdu",Geo News
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Geo Entertainment" tvg-logo="https://lh3.googleusercontent.com/bS7CCJTsNdNwANvBbk5x2ekyMilOc1oToCrcTQ-bJNmDNNUMVKjpxB5YDm6ZbaSwZg" group-title="Urdu",Geo Entertainment
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalwa" tvg-logo="https://scontent.fjsr1-1.fna.fbcdn.net/v/t31.0-8/s960x960/1049061_147964015396861_1092588964_o.png?_nc_cat=100&_nc_sid=85a577&_nc_eui2=AeGKMNJgYOPUdARh6TcEyqUWbdSFC0cNTaxt1IULRw1NrKc3QaOOlyy1OJ-COFhDbn8&_nc_ohc=DYWMF3JM-_MAX_5Vmq0&_nc_ht=scontent.fjsr1-1.fna&oh=a0253e2710949dfc64d5b13abea43478&oe=5F165674" group-title="Urdu",Jalwa
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Express Entertainment" tvg-logo="https://4.bp.blogspot.com/-if9ImzP_YPs/W5tYswVvfCI/AAAAAAAAECo/QE3lZYcLeO81yfaSc958bgoOrs8ZWMGWwCLcBGAs/s1600/Capture.PNG" group-title="Urdu",Express Entertainment
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dunya" tvg-logo="https://img.favpng.com/22/2/11/dunya-news-pakistan-television-logo-png-favpng-UYttXFZL0MRpd54qnf5FCVriJ.jpg" group-title="Urdu",Dunya
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="8X Music" tvg-logo="https://p7.hiclipart.com/preview/58/527/592/pakistan-8xm-television-channel-streaming-media-non-stop.jpg" group-title="Urdu",8X Music
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Humraz TV" tvg-logo="https://i.ytimg.com/vi/BOLePzbFiT4/hqdefault.jpg" group-title="Urdu",Humraz TV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Home" tvg-logo="https://logodix.com/logo/1663081.png" group-title="Urdu",PTV Home
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Global" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="Urdu",PTV Global
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABZY Movies" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/38da866a0646683c.jpg" group-title="Hindi",ABZY Movies
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Box Cinema" tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="Hindi",Box Cinema
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAHA MOVIE" tvg-logo="https://ambujtiwari1.files.wordpress.com/2015/11/maha-movie-logo.jpg" group-title="Hindi",MAHA MOVIE
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Urdu",PTV World
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="itv" tvg-logo="https://i7.pngflow.com/pngimage/521/130/png-itv-plc-logo-musical-ensemble-the-rolling-stones-indie-rock-text-logo-musical-ensemble-symbol-clipart.png" group-title="Entertainment",itv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alif tv" tvg-logo="https://pbs.twimg.com/profile_images/839738269717798912/9uA-mUAI.jpg" group-title="Bangla",Alif tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="itv3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/200px-ITV3_logo_2013.svg.png" group-title="Entertainment",itv3
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="itv4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png" group-title="Entertainment",itv4
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/film_aksion_logo.png" group-title="Movies",Film Aksion
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/film_autor_logo.png" group-title="Movies",Film Autor
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="https://lh3.googleusercontent.com/proxy/mw-clYtegBqbJViphJMJZOqeM1bXFdbGMvkWeffKOp6a7J6hiCCA6Y8wc-k6xhuOJbZITr64hcriM1J0o8jVAw" group-title="Movies",Film Hits
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILM Komedi" tvg-logo="https://mobile-api.tvim.tv/images/channels/300x160px/FILMKOMEDI.png" group-title="Movies",FILM Komedi
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILM Thriller " tvg-logo="https://lh3.googleusercontent.com/-L3TqzRN9B7s/VJ7r5Dus62I/AAAAAAAABgI/AfKaNdp1oXE/w800-h250-no/digit_alb_thriller.png" group-title="Movies",FILM Thriller 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" group-title="Documentary",Da Vinci
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA-WWE" tvg-logo="https://i.ytimg.com/vi/fU44XwqIozs/maxresdefault.jpg" group-title="Entertainment",USA-WWE
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HDL HD (dual language)" tvg-logo="https://www.logolynx.com/images/logolynx/e0/e0ad7923cf22158093de358c284d972a.png" group-title="Documentary",HDL HD (dual language)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Axn White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="Entertainment",Axn White
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP Megahit HD" tvg-logo="https://www.viasatworld.com/media/1186/vipmegahit.png" group-title="Movies",VIP Megahit HD
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alfajer Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/FilmBox_Action.svg/revision/latest/scale-to-width-down/340?cb=20191216082741" group-title="Movies",Alfajer Movies
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Drama" tvg-logo="https://www.thefilmcatalogue.com/assets/company-logos/5200/FUAG_Logo.png" group-title="Movies",Film Drama
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spike" tvg-logo="https://1.bp.blogspot.com/-sxVt5z_QsPk/VPmnC9Zh4dI/AAAAAAAAjWw/liYcmY40iOk/s1600/Spike-logo-2015.png" group-title="Entertainment",Spike
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Axn Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/114px-AXN_Black_logo_%282015%29.svg.png" group-title="Entertainment",Axn Black
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Movies",Hollywood HD
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC One" tvg-logo="https://velocitycommerce.co.uk/wp-content/uploads/2018/09/BBC-One-Logo.svg" group-title="Entertainment",BBC One
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ren Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1200px-REN_TV_logo_2017.svg.png" group-title="Entertainment",Ren Tv
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport " tvg-logo="https://i.imgur.com/ysfzbIO.jpg" group-title="Sports",Viasat Sport 
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature (dual language)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Viasat_Nature_Logo.jpg" group-title="Documentary",Viasat Nature (dual language)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore (dual language)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_Explore_Logo.jpg" group-title="Documentary",Viasat Explore (dual language)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat History (dual language)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_History_Logo.jpg" group-title="Documentary",Viasat History (dual language)
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuggNeyrSNs4TRA6JfDz3GGrk-XgUpiQwBFlGUVe-TwBT8oGEC&usqp=CAU" group-title="Movies",Cinema 1
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 2" tvg-logo="https://www.viasatworld.com/media/1184/vippremiere.png" group-title="Movies",Cinema 2
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="California Music Channel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/California_Music_Channel_Logo.png/220px-California_Music_Channel_Logo.png" group-title="Music",California Music Channel TV
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Australia Channel" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="News",Australia Channel
+http://bdvisioniptv.ddns.net:25461/live/ashikur93/2593/680.m3u8
